@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-http-cache",
+        "scope": null,
+        "escapedName": "react-native-http-cache",
+        "name": "react-native-http-cache",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/test/Desktop/Both/商城/rcshop-onreact"
+    ]
+  ],
+  "_from": "react-native-http-cache@latest",
+  "_id": "react-native-http-cache@0.2.0",
+  "_inCache": true,
+  "_location": "/react-native-http-cache",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-http-cache-0.2.0.tgz_1478836220882_0.4256444040220231"
+  },
+  "_npmUser": {
+    "name": "tdzl2003",
+    "email": "tdzl2003@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-http-cache",
+    "scope": null,
+    "escapedName": "react-native-http-cache",
+    "name": "react-native-http-cache",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-http-cache/-/react-native-http-cache-0.2.0.tgz",
+  "_shasum": "1796ef5a2bbad845a066338f6f8d96a591e421e3",
+  "_shrinkwrap": null,
+  "_spec": "react-native-http-cache",
+  "_where": "/Users/test/Desktop/Both/商城/rcshop-onreact",
+  "author": {
+    "name": "tdzl2003"
+  },
+  "bugs": {
+    "url": "https://github.com/reactnativecn/react-native-http-cache/issues"
+  },
+  "dependencies": {},
+  "description": "Control http cache used by fetch/XMLHttpRequest",
+  "devDependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^2.1.1",
+    "eslint-plugin-import": "^0.12.1",
+    "eslint-plugin-react": "^3.13.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "1796ef5a2bbad845a066338f6f8d96a591e421e3",
+    "tarball": "https://registry.npmjs.org/react-native-http-cache/-/react-native-http-cache-0.2.0.tgz"
+  },
+  "gitHead": "c563199dfec86b9be3292d77fb7d275135f37a19",
+  "homepage": "https://github.com/reactnativecn/react-native-http-cache#readme",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "http",
+    "cache"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "tdzl2003",
+      "email": "tdzl2003@gmail.com"
+    }
+  ],
+  "name": "react-native-http-cache",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactnativecn/react-native-http-cache.git"
+  },
+  "scripts": {
+    "test": "node node_modules/eslint/bin/eslint ."
+  },
+  "version": "0.2.0"
+}

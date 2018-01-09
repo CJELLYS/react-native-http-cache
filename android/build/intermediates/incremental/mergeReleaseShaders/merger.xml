@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/test/Desktop/Both/商城/rcshop-onreact/node_modules/react-native-http-cache/android/src/main/shaders"/></dataSet><dataSet config="release"><source path="/Users/test/Desktop/Both/商城/rcshop-onreact/node_modules/react-native-http-cache/android/src/release/shaders"/></dataSet></merger>

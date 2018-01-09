@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/test/Desktop/Both/商城/rcshop-onreact/node_modules/react-native-http-cache/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/test/.android/build-cache/3225d0b2ef6e3bef8a403ac7225e8171d34ba60b/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 48,
+                        "endOffset": 324
+                    }
+                }
+            }
+        ]
+    }
+]
